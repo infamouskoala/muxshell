@@ -54,10 +54,15 @@ pyinstaller --onefile muxshell/payload.py
 
 # CHECKLIST
 [ ] Implement Windows Defender bypass (Won't be public)
+
 [ ] Implement a "launch on startup" logic via Windows API
+
 [ ] Implement an Injection system (hopefully) to inject this into system files
+
 [ ] Implement a vm detection
+
 [ ] Implement some to send constant machine status to the backend servers
+
 [ ] Implement self destruct machenism when being played with
 
 # THANK YOU
