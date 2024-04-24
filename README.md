@@ -33,7 +33,6 @@ python server.py
 ```
 
 ### __BUILDING THE PAYLOAD__
-> Target: Windows Machine
 
 - Build anyone from C or Python one. Make sure to update the connection address before building it.
 
